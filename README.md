@@ -5,4 +5,5 @@ This project aims to achieve some core machine learning algorithms by hand. I th
 
 - [Linear Regression](https://github.com/ZhangYizhe/JupyterNotes/blob/ac5b24c7b31396995335d831af93576276cc6255/house-price-predict/LinearRegression.ipynb)
 - [Logistic Regression](https://github.com/ZhangYizhe/JupyterNotes/blob/f7ce711926d3587feb7aee9eb327c0b428f40fa4/imdb/LogisticRegression.ipynb)
+- [Neural Networks](https://github.com/ZhangYizhe/JupyterNotes/blob/e211221f9d7606e4d3e59404830564ebb84317da/mnist/tf_nns.ipynb)
 
